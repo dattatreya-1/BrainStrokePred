@@ -1,6 +1,6 @@
-streamlit
-tensorflow
-xgboost
-joblib
+streamlit==1.32.0
+tensorflow-cpu==2.15.0
+xgboost==2.0.3
 pillow
+joblib
 numpy
